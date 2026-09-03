@@ -1,0 +1,15 @@
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\bin\Debug\net9.0\Bash-A-Monster.exe
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\bin\Debug\net9.0\Bash-A-Monster.deps.json
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\bin\Debug\net9.0\Bash-A-Monster.runtimeconfig.json
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\bin\Debug\net9.0\Bash-A-Monster.dll
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\bin\Debug\net9.0\Bash-A-Monster.pdb
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\Bash-A-Monster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\Bash-A-Monster.AssemblyInfoInputs.cache
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\Bash-A-Monster.AssemblyInfo.cs
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\Bash-A-Monster.csproj.CoreCompileInputs.cache
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\Bash-A-Monster.sourcelink.json
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\Bash-A-Monster.dll
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\refint\Bash-A-Monster.dll
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\Bash-A-Monster.pdb
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\Bash-A-Monster.genruntimeconfig.cache
+C:\Users\nixon.berglindstran\Desktop\skol code\Bash-a-Monster\Bash-A-Monster\obj\Debug\net9.0\ref\Bash-A-Monster.dll
