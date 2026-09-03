@@ -7,7 +7,7 @@ Spelarklass Spelare = new Spelarklass();
 int smaugDefeats = 0;
 int spelarelliv = 1;
 int rollZeroDmg = Random.Shared.Next(1, 21);
-string [] Directions = ["Behind of", "To the right of", "To the left of", "in the corner to the right of", "in the corner to the left of"];
+string[] Directions = ["Behind of", "To the right of", "To the left of", "in the corner to the right of", "in the corner to the left of"];
 
 
 
@@ -102,8 +102,8 @@ while (smaugDefeats == 0 && spelarelliv == 1)
                             if (SpelareHp <= 0)
                             {
                                 print($"- {spelarenamn} gets hit and takes their last breath but not before muttering in a weak voice 'this is not over!' after the words leaves their body their soul follows....");
-                                spelarelliv --;
-                                
+                                spelarelliv--;
+
                             }
                             else
                             {
@@ -157,54 +157,54 @@ while (smaugDefeats == 0 && spelarelliv == 1)
                 }
             }
         }
-        else
+        else if (Fiende.spd > Spelare.spd)
         {
             print($"- {Fiende.name} is faster so they can attack first");
         }
-    
 
-    else if (Fiende.name == "Nazgull")
-    {
-        print($"- ");
 
-        if (Spelare.spd >= Fiende.spd)
+        else if (Fiende.name == "Nazgull")
         {
+            print($"- ");
 
+            if (Spelare.spd >= Fiende.spd)
+            {
+
+            }
         }
+
+        else if (Fiende.name == "Great spider")
+        {
+            print($"- ");
+
+            if (Spelare.spd >= Fiende.spd)
+            {
+
+            }
+        }
+
+        else if (Fiende.name == "Smaug - The Chiefest and Greatest of Calamities")
+        {
+            print($"- ");
+
+            if (Spelare.spd >= Fiende.spd)
+            {
+
+            }
+        }
+
     }
 
-    else if (Fiende.name == "Great spider")
+    if (spelarelliv == 0)
     {
-        print($"- ");
-
-        if (Spelare.spd >= Fiende.spd)
-        {
-
-        }
+        print("- Press any key to close the console");
     }
-
-    else if (Fiende.name == "Smaug - The Chiefest and Greatest of Calamities")
+    else if (smaugDefeats == 1)
     {
-        print($"- ");
-
-        if (Spelare.spd >= Fiende.spd)
-        {
-
-        }
+        print($"");
     }
-
-}
-
-if (spelarelliv == 0)
-{
-    print("- Press any key to close the console");
-}
-else if (smaugDefeats == 1)
-{
-    print($"");
-}
-
-Console.ReadLine();
+    }
+    Console.ReadLine();
 
 
 
