@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bash-A-Monster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee9b6897925b78cd2f6126293350da84cc39909")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+064f2924982efea083edbe54cb1d808dc3afefb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bash-A-Monster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bash-A-Monster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
